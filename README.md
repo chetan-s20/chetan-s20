@@ -1,6 +1,21 @@
 # 💫 About Me:
-🚀 Hey there! I'm Chetan Sharma<br>I'm a passionate  developer and enthusiast who loves building impactful solutions. Currently🔧 Tech Stack & Interests<br>Frontend: HTML, CSS, JavaScript<br>Backend: Node.js (Express.js), Python (Flask)<br>Databases: MongoDB, Firebase<br>Other Interests: Blockchain, Cryptography, IoT, AI-driven solutions<br>🌟 What I’m Up To<br>Developing AquaSense to solve real-world problems,<br>Learning blockchain development & cryptography
+🚀Computer Science Engineering | AI Minor
 
+I’m a student developer focused on building intelligent systems, interactive experiences, and practical software. I enjoy working where AI meets real-world applications, whether that’s smart monitoring systems, full-stack platforms, or game mechanics inside Unreal Engine.
+
+🔍 What I’m Working On
+
+Artificial Intelligence & Machine Learning
+Learning how models think, learn, and make decisions, with a focus on practical use cases rather than theory-only work.
+
+Game Development & VFX (Unreal Engine 5)
+Exploring gameplay systems, teleport/dash mechanics, Niagara VFX, and interactive environments.
+
+Full-Stack Development
+Building responsive web and mobile applications with clean UI, structured logic, and scalable backends.
+
+IoT & Smart Systems
+Creating systems like AQI and water monitoring that combine sensors, data, and intelligence to solve real problems.
 
 ## 🌐 Socials:
 email 📧 - chetansharma20059@gmail.com 
