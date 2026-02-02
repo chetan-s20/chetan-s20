@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Hey there! I'm Chetan Sharma<br>I'm a passionate web developer and an aspiring blockchain enthusiast who loves building impactful solutions. Currently, I'm working on AquaSense, a project focused on smart water monitoring and quality testing device, while also diving deep into blockchain and cryptography-based projects.<br><br>🔧 Tech Stack & Interests<br>Frontend: HTML, CSS, JavaScript<br>Backend: Node.js (Express.js), Python (Flask)<br>Databases: MongoDB, Firebase<br>Other Interests: Blockchain, Cryptography, IoT, AI-driven solutions<br>🌟 What I’m Up To<br>Developing AquaSense to solve real-world problems,<br>Learning blockchain development & cryptography
+🚀 Hey there! I'm Chetan Sharma<br>I'm a passionate  developer and enthusiast who loves building impactful solutions. Currently🔧 Tech Stack & Interests<br>Frontend: HTML, CSS, JavaScript<br>Backend: Node.js (Express.js), Python (Flask)<br>Databases: MongoDB, Firebase<br>Other Interests: Blockchain, Cryptography, IoT, AI-driven solutions<br>🌟 What I’m Up To<br>Developing AquaSense to solve real-world problems,<br>Learning blockchain development & cryptography
 
 
 ## 🌐 Socials:
