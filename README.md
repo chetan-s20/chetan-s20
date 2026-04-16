@@ -1,3 +1,6 @@
+<div>
+
+<pre>
 ████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
 ████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
 ███████████████████████████████████`.        ╙██████████████  ███████║█████╗  ██║     ██║     ██║   ██║
@@ -18,6 +21,11 @@
 █████████▌ º     ╤╣▒╣╩^",▄▄███▀  ▒▒╣"     ''''''' ▀▀     `██  ██║╚██╔╝██║██╔══╝  ██╔══╝     ██║       ╚██╔╝  ██║   ██║██║   ██║
 █████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
+</pre>
+
+</div>
+
+---
 # 💫 About Me:
 Hey 👋, I'm Chetan Sharma<br>🚀 CSE (AI & ML) Student | Full Stack Dev | Building Real-World Tech<br><br> 🧠 About Me<br>- 🎓 B.Tech CSE (AI & ML) @ GNA University (2028)<br>- 💡 Passionate about AI, Web Dev & solving real-world problems<br>- ⚡ Currently building impactful projects (AI + IoT + Web)<br>- 🧪 Exploring Machine Learning, Cybersecurity & Game Dev<br>- 🏆 Worked with GNA Axles Ltd. (Real-world dev experience)<br><br><br>
 
